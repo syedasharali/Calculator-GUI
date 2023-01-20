@@ -11,9 +11,6 @@ x=0;y=0
 count=0
 
 
-def restart_window():
-    pass
-
 def checkwin():
     img = ImageGrab.grab((canvas.winfo_rootx(), canvas.winfo_rooty(), canvas.winfo_rootx() + 600, canvas.winfo_rooty() + 600))
 
@@ -136,9 +133,11 @@ def clicked(evt):
         if img.getpixel((x+80,y+100/3))!=(0,0,255) and img.getpixel((x+250/3,y+250/3))!=(255,0,0):
             if (count+2)%2==0:
                 cross()
+                canvas.update()
                 checkwin()
             else:
                 zero()
+                canvas.update()
                 checkwin()
      
 canvas=Canvas(root,bg='white',height=500,width=500)
@@ -152,4 +151,8 @@ canvas.create_line(500-500/3,0,500-500/3,500,width=10,fill='lime')
 canvas.create_line(0,500/3,500,500/3,width=10,fill='lime')
 canvas.create_line(0,500-500/3,500,500-500/3,width=10,fill='lime')
 
+
+
+
 root.mainloop()
+
