@@ -15,6 +15,7 @@ A simple Tic Tac Toe game built using Python's Tkinter library for the GUI and P
 - The player 1 is X and the player 2 is O.
 - Players take turns placing their marks in the grid.
 - The first player to get three of their marks in a row wins.
+![Usage](tictactoe.png)
 
 ## Contributing
 
