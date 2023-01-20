@@ -16,6 +16,17 @@ A simple Tic Tac Toe game built using Python's Tkinter library for the GUI and P
 - Players take turns placing their marks in the grid.
 - The first player to get three of their marks in a row wins.
 
+## Contributing
+
+Feel free to contribute
+
+1. Fork it.
+2. Create your feature branch (`git checkout -b my-new-awesome-feature`)
+3. Commit your changes (`git commit -am 'Added <xyz> feature'`)
+4. Push to the branch (`git push origin my-new-awesome-feature`)
+5. Create new Pull Request
+
+
 ## Authors
 
 * **Syed Ashar Ali** -
