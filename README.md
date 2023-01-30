@@ -17,8 +17,13 @@ A simple Tic Tac Toe game built using Python's Tkinter library for the GUI and P
 - The first player to get three of their marks in a row wins.
 
 
+-![Usage](screenshots/1675101459.jpg)
+-![Usage](screenshots/1675100580.jpg)
+-![Usage](screenshots/1675100591.jpg)
+-![Usage](screenshots/1675100623.jpg)
 -![Usage](tictactoe.png)
--![Usage](screenshots/1674980875.jpg)
+-![Usage](screenshots/1675101628.jpg)
+
 
 
 
