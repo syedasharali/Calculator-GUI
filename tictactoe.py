@@ -2,9 +2,6 @@ from PIL import Image, ImageGrab
 import random as r
 from winsound import PlaySound, SND_FILENAME, SND_LOOP, SND_ASYNC
 from tkinter import *
-from math import ceil
-from time import time
-import webbrowser
 
 
 
