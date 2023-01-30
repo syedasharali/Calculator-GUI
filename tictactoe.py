@@ -15,7 +15,7 @@ flag=False
 
 def computer_zero():
     global x,y
-    if .......
+    if 
     
     
-'''This file has been removed to prevent unauthorized duplication. If you need to reach me, please send an email to syedasharali092@gmail.com.'''
+"""This file has been removed to prevent unauthorized duplication. If you need to reach me, please send an email to syedasharali092@gmail.com."""
