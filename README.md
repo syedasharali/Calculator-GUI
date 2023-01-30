@@ -22,7 +22,7 @@ A simple Tic Tac Toe game built using Python's Tkinter library for the GUI and P
 -![Usage](screenshots/1675100591.jpg)
 -![Usage](screenshots/1675100623.jpg)
 -![Usage](screenshots/1675101628.jpg)
--![Usage](tictactoe.png)
+-![Usage](screenshots/1675104988.jpg)
 
 
 
