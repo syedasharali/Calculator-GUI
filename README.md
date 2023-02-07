@@ -1,6 +1,6 @@
 # TicTacToe-Canvas-Tkinter
 
-A simple Tic Tac Toe game built using Python's Tkinter library for the GUI and Pillow library.
+A Tic Tac Toe game built on Canvas using Python's Tkinter library for the GUI.
 
 ## Getting Started
 
@@ -9,6 +9,11 @@ A simple Tic Tac Toe game built using Python's Tkinter library for the GUI and P
 - Python 3.x
 - Tkinter
 - Pillow
+
+## Features
+
+- Play against a computer opponent who is skilled and makes non-random moves.
+- Play against your friend on the same board.
 
 ## How to Play
 - The game is played on a 3x3 grid.
