@@ -22,13 +22,16 @@ A Tic Tac Toe game built on Canvas using Python's Tkinter library for the GUI.
 - The first player to get three of their marks in a row wins.
 
 
--![Usage](screenshots/1675101459.jpg)
--![Usage](screenshots/1675100580.jpg)
--![Usage](screenshots/1675100591.jpg)
--![Usage](screenshots/1675100623.jpg)
--![Usage](screenshots/1675101628.jpg)
--![Usage](screenshots/1675104988.jpg)
-
+-![Usage](screenshots/1.png)
+-![Usage](screenshots/2.png)
+-![Usage](screenshots/3.png)
+-![Usage](screenshots/4.png)
+-![Usage](screenshots/5.png)
+-![Usage](screenshots/6.png)
+-![Usage](screenshots/7.png)
+-![Usage](screenshots/8.png)
+-![Usage](screenshots/9.png)
+-![Usage](screenshots/10.png)
 
 
 
