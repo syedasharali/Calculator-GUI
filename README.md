@@ -41,3 +41,7 @@ A Tic Tac Toe game built on Canvas using Python's Tkinter library for the GUI.
 ## Authors
 
 * **Syed Ashar Ali** -
+
+## Contact
+
+* **syedasharali092@gmail.com**
