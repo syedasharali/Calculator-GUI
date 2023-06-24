@@ -22,16 +22,16 @@ A Tic Tac Toe game built on Canvas using Python's Tkinter library for the GUI.
 - The first player to get three of their marks in a row wins.
 
 
-<img src="screenshots/1.png" alt="Image" width="500" height="550">
-<img src="screenshots/2.png" alt="Image" width="500" height="550">
-<img src="screenshots/3.png" alt="Image" width="500" height="550">
-<img src="screenshots/4.png" alt="Image" width="500" height="550">
-<img src="screenshots/5.png" alt="Image" width="500" height="550">
-<img src="screenshots/6.png" alt="Image" width="500" height="550">
-<img src="screenshots/7.png" alt="Image" width="500" height="550">
-<img src="screenshots/8.png" alt="Image" width="500" height="550">
-<img src="screenshots/9.png" alt="Image" width="500" height="550">
-<img src="screenshots/10.png" alt="Image" width="500" height="550">
+<img src="screenshots/1.png" alt="Image" width="300" height="330">
+<img src="screenshots/2.png" alt="Image" width="300" height="330">
+<img src="screenshots/3.png" alt="Image" width="300" height="330">
+<img src="screenshots/4.png" alt="Image" width="300" height="330">
+<img src="screenshots/5.png" alt="Image" width="300" height="330">
+<img src="screenshots/6.png" alt="Image" width="300" height="330">
+<img src="screenshots/7.png" alt="Image" width="300" height="330">
+<img src="screenshots/8.png" alt="Image" width="300" height="330">
+<img src="screenshots/9.png" alt="Image" width="300" height="330">
+<img src="screenshots/10.png" alt="Image" width="300" height="330">
 
 
 
