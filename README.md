@@ -4,6 +4,10 @@ A Tic Tac Toe game built on Canvas using Python's Tkinter library for the GUI.
 
 ## Getting Started
 
+### Video Link
+
+https://youtu.be/odr8r9eJlEM
+
 ### Prerequisites
 
 - Python 3.x
